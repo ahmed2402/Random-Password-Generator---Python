@@ -3,7 +3,7 @@ import string
 
 charValues = string.ascii_letters + string.digits + string.punctuation
 passLength = int(input("Enter the length of your Password : "))
-
+#another method
 # password = ""
 # for i in range(passLength):
 #     password = password + random.choice(charValues)
